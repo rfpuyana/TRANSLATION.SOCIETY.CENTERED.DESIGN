@@ -43,6 +43,5 @@ La emergencia climática es una amenaza existencial para la humanidad. Necesitam
 Las dificultades que enfrentamos están interconectadas, son complejas y siempre cambiantes. Vivimos en tiempos radicales que requieren soluciones radicales. No hacer nada favorece al status quo. Debemos actual de manera firme y desafiante.
 
 
-[^bignote]: Manifiesto creado por https://www.projectsbyif.com/
-	
+	Manifiesto creado por https://www.projectsbyif.com/
 	Texto Original:https://societycentered.design/
